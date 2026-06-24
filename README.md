@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤖Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,androidstudio)](https://skillicons.dev)

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Débora Pimenta
+# 👋 Hi, I'm Debora
 
 ### Junior Quality Assurance Analyst | Manual & Automated Testing
 

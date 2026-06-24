@@ -22,17 +22,9 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 About Me
 
-✦ Junior QA Analyst with practical experience testing web, mobile, and API applications through real-world QA projects. Experienced in manual testing, API validation, defect tracking, regression testing, and test automation using Python, Selenium WebDriver, and Pytest. Detail-oriented, analytical, and passionate about software quality and continuous learning.
+✦ Junior QA Analyst with practical experience testing web, mobile, and API applications through real-world QA projects. Experienced in manual testing, API validation, defect tracking, regression testing, and test automation using Python, Selenium WebDriver, and Pytest. 
 
-
-* 🔍 Manual Testing
-* 🤖 Test Automation
-* 📱 Mobile Testing
-* 🌐 Web Testing
-* 🔌 API Testing
-* 🗄️ Database Validation
-* 🐞 Bug Reporting
-* 📋 Test Case Design
+🔍 Manual Testing • 🤖 Test Automation • 📱 Mobile Testing • 🌐 Web Testing • 🔌 API Testing • 🗄️ Database Validation • 🐞 Bug Reporting • 📋 Test Case Design
 
 ---
 

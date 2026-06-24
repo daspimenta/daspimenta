@@ -18,17 +18,12 @@ Here are some ideas to get you started:
 
 ### Junior Quality Assurance Analyst | Manual & Automated Testing
 
-🇧🇷 Brazil | 🌐 English C1 | 💻 Computer Science Student
-
 ---
 
 ## 👩🏻‍💻 About Me
 
-I'm a Junior Quality Assurance Analyst with a background in language editing, proofreading, and teaching, currently focused on software quality assurance.
+✦ Junior QA Analyst with practical experience testing web, mobile, and API applications through real-world QA projects. Experienced in manual testing, API validation, defect tracking, regression testing, and test automation using Python, Selenium WebDriver, and Pytest. Detail-oriented, analytical, and passionate about software quality and continuous learning.
 
-I have hands-on experience testing **Web, Mobile, and API applications**, gained through real-world QA projects involving manual and automated testing. My experience includes creating and executing test cases, defect tracking, API validation, regression testing, database validation, and test automation using Python.
-
-I enjoy investigating issues, validating requirements, and ensuring software delivers a reliable user experience. My attention to detail, analytical mindset, and problem-solving skills help me identify defects and contribute to product quality.
 
 * 🔍 Manual Testing
 * 🤖 Test Automation

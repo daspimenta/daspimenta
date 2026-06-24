@@ -36,45 +36,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Languages & Tools
+ ## 🤖 Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,selenium,git,github,vscode,pycharm,androidstudio,figma" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" /> </p>
-## 
+<img src="https://skillicons.dev/icons?i=python,androidstudio,selenium,pycharm,vscode,postman,figma,git" />
 
-## 🚀 Languages & Tools
-
-### Programming & Query Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Test Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://skillicons.dev/icons?i=pytest" />
-</p>
-
-### QA & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### Testing & Project Management
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 ---
 

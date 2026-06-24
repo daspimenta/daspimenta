@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **daspimenta/daspimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 👋 Hi, I'm Debora
 
 ### Junior Quality Assurance Analyst | Manual & Automated Testing
@@ -61,8 +60,6 @@ Comprehensive QA project covering Web, Mobile, and API testing.
 
 **Tools:** Postman • Android Studio • Jira • Chrome DevTools • Figma
 
-🔗 Repository: https://github.com/daspimenta/End-To-End-QA-Project---Urban-Scooter
-
 ---
 
 ### 🤖 Urban Routes – Test Automation Framework
@@ -78,8 +75,6 @@ Developed an automated testing framework using Python, Selenium WebDriver, Pytes
 * Version control with Git & GitHub
 
 **Tools:** Python • Selenium • Pytest • Git • GitHub
-
-🔗 Repository: https://github.com/daspimenta/QA-Brazil_Python_Automation
 
 ---
 
@@ -97,22 +92,6 @@ Manual API testing focused on validating REST endpoints and business rules.
 
 **Tools:** Postman • REST API • HTTP • JSON • Jira
 
-🔗 Repository: https://github.com/daspimenta/QA-Project---Delivery-App---Urban-Grocers
-
 ---
 
-## 📊 GitHub Stats
-
-![Debora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daspimenta\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daspimenta\&layout=compact)
-
----
-
-## 🌎 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deboraspimenta)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/daspimenta)
-
-📧 Email: [dasppimenta@gmail.com](mailto:dasppimenta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deboraspimenta) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/daspimenta)

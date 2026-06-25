@@ -55,7 +55,7 @@ These are some of my <strong>featured projects:</strong>
 </div>
 
 <h3 align="center">
-  🚗 <a href="https://github.com/LuizaTaynara/Web_Testing-Car_Sharing">
+  🚗 <a href="">
     Web Testing Project – Car Sharing Platform
   </a>
 </h3> 
@@ -68,7 +68,7 @@ Validated booking, payment, and vehicle rental workflows while performing UI, re
 &nbsp;
 
 <h3 align="center">
-  🔌 <a href="https://github.com/LuizaTaynara/API_Testing-Urban_Grocers">
+  🔌 <a href="https://github.com/daspimenta/API_Testing-Delivery_App-Urban_Grocers">
     API Testing Project – Urban Grocers
   </a>
 </h3> 
@@ -83,7 +83,7 @@ Verified request and response behavior, HTTP status codes, JSON payloads, busine
 &nbsp;
 
 <h3 align="center">
-  📱 <a href="https://github.com/LuizaTaynara/Mobile_Testing-Urban_Lunch">
+  📱 <a href="https://github.com/daspimenta/Mobile_Testing_Project-Food_App-Urban_Lunch">
     Mobile Testing Project – Urban Lunch
   </a>
 </h3>
@@ -111,7 +111,7 @@ Executed data aggregation, joins, filtering, and business rule validation to sup
 &nbsp;
 
 <h3 align="center">
-  🤖 <a href="https://github.com/LuizaTaynara/Test_Automation-Urban_Routes">
+  🤖 <a href="https://github.com/daspimenta/Test_Automation-Car_Sharing_App-Urban_Routes">
     Test Automation Project – Urban Routes
   </a>
 </h3>
@@ -125,8 +125,8 @@ Designed a maintainable automation framework following industry best practices a
 &nbsp;
 
 <h3 align="center">
-  🛴 <a href="https://github.com/LuizaTaynara/End_To_End_Final_Project-Urban_Scooter">
-    End-to-End Quality Assurance - Final Project – Urban Scooter
+  🛴 <a href="https://github.com/daspimenta/End_To_End-QA_Project-Urban_Scooter">
+    End-to-End Testing Project – Urban Scooter
   </a>
 </h3>
 

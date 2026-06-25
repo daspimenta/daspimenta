@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-🔍 Manual Testing • 🤖 Test Automation • 📱 Mobile Testing • 🌐 Web Testing • 🔌 API Testing • 🗄️ Database Validation • 🐞 Bug Reporting • 📋 Test Case Design
+Manual Testing • Test Automation • Mobile Testing • Web Testing • API Testing • Database Validation • Bug Reporting • Test Case Design
 </p>
 
 --

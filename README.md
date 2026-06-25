@@ -97,7 +97,7 @@ Executed testing on an Android emulator, identified and documented defects in Ji
 &nbsp;
 
 <h3 align="center">
-  💻 <a href="https://github.com/LuizaTaynara/Basic_Database_Concepts-Urban_Taxi">
+  💻 <a href="https://github.com/daspimenta/Basic_Database_Concepts-Taxi_App-Urban_Taxi">
     Basic Database Concepts Project – Urban Taxi
   </a>
 </h3>

@@ -48,11 +48,13 @@ Manual Testing • Test Automation • Mobile Testing • Web Testing • API Te
 </div>
 
 ---
-<h2 align="center">🌐 Software Quality Projects</h2>
+
+</p><h2 align="center"> 🌐 Software Quality Projects </h2> 
 
 <div align="center">
 These are some of my <strong>featured projects:</strong>
 </div>
+
 
 <h3 align="center">
   🚗 <a href="https://github.com/daspimenta/Web_Testing-Car_Sharing_Platform-Urban_Routes">

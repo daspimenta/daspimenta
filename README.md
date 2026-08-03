@@ -48,9 +48,7 @@ Manual Testing • Test Automation • Mobile Testing • Web Testing • API Te
 </div>
 
 ---
-
-<div align="center">
-</p><h2 align="center"> 🌐 Software Quality Projects </h2> 
+<h2 align="center">🌐 Software Quality Projects</h2>
 
 <div align="center">
 These are some of my <strong>featured projects:</strong>

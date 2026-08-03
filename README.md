@@ -49,7 +49,7 @@ Manual Testing • Test Automation • Mobile Testing • Web Testing • API Te
 
 ---
 
-
+<div align="center">
 </p><h2 align="center"> 🌐 Software Quality Projects </h2> 
 
 <div align="center">

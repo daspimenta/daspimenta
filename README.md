@@ -44,7 +44,7 @@ Manual Testing • Test Automation • Mobile Testing • Web Testing • API Te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" title="JIRA" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" /> &nbsp;
-  <img src="https://img.shields.io/badge/Playwright-2E=for-the-badge&logo=playwright&logoColor=white
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-=playwright&logoColor=white /> &nbsp;
 </div>
 
 ---

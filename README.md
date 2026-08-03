@@ -1,7 +1,7 @@
 </p><h1 align="center">👋 Hi, I'm Debora!</h1>
 
 <p align="center">
-   <b>Quality Assurance Analyst | Manual & Automated Tests</b>
+   <b>Jr. Quality Assurance Analyst | Manual Testing | Test Automation | Selenium | Playwright</b>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 ---
 </p><h2 align="center">👩🏻‍💻 About Me </h2> 
 
-✦ Junior QA Analyst with practical experience testing web, mobile, and API applications through real-world QA projects. Experienced in manual testing, API validation, defect tracking, regression testing, and test automation using Python, Selenium WebDriver, and Pytest.
+✦ Junior QA Analyst with practical experience testing web, mobile, and API applications through real-world QA projects. Experienced in manual testing, API validation, defect tracking, regression testing, and test automation using Python, Selenium WebDriver, Playwright, and Pytest.
 
-Manual Testing • Test Automation • Mobile Testing • Web Testing • API Testing • Database Validation • Bug Reporting • Test Case Design
+Manual Testing • Test Automation • Mobile Testing • Web Testing • API Testing • Database Validation • Bug Reporting • Test Case Design • Playwright
 
 ---
 
@@ -44,6 +44,7 @@ Manual Testing • Test Automation • Mobile Testing • Web Testing • API Te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" title="JIRA" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" /> &nbsp;
+  <img src="https://img.shields.io/badge/Playwright-2E=for-the-badge&logo=playwright&logoColor=white
 </div>
 
 ---

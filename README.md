@@ -70,6 +70,18 @@ Validated booking, payment, and vehicle rental workflows while performing UI, re
 &nbsp;
 
 <h3 align="center">
+  🎭 <a href="https://github.com/daspimenta/playwright-python-project_practice-page">
+    Playwright Practice Project – Test Automation
+    </a>
+</h3>
+
+Built an automated test suite in Python using Playwright and pytest to validate UI interactions on a practice web application. Implemented tests covering login flows, page navigation, form controls, and multiple element-locating strategies (role, text, label, placeholder, alt text, and test ID), applying auto-waiting assertions and parallel test execution to ensure reliable, maintainable coverage.
+
+**Skills:** Test Automation • Playwright • Python • Pytest • Locator Strategies • UI Testing • Parallel Test Execution • Version Control (Git/GitHub)
+
+&nbsp;
+
+<h3 align="center">
   🔌 <a href="https://github.com/daspimenta/API_Testing-Delivery_App-Urban_Grocers">
     API Testing Project – Urban Grocers
   </a>

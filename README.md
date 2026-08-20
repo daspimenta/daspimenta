@@ -75,7 +75,7 @@ Validated booking, payment, and vehicle rental workflows while performing UI, re
     </a>
 </h3>
 
-Built an automated test suite in Python using Playwright and pytest to validate UI interactions on a practice web application. Implemented tests covering login flows, page navigation, form controls, and multiple element-locating strategies (role, text, label, placeholder, alt text, and test ID), applying auto-waiting assertions and parallel test execution to ensure reliable, maintainable coverage.
+Built an automated test suite in Python using Playwright and pytest to validate UI interactions on a practice web application. Implemented tests covering login flows, page navigation, form controls, and multiple element-locating strategies (role, text, label, placeholder, alt text, and test ID), applying auto-waiting assertions and parallel test execution to ensure reliable, maintainable coverage. (ONGOING)
 
 **Skills:** Test Automation • Playwright • Python • Pytest • Locator Strategies • UI Testing • Parallel Test Execution • Version Control (Git/GitHub)
 

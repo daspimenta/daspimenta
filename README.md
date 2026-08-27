@@ -1,7 +1,7 @@
 </p><h1 align="center">👋 Hi, I'm Debora!</h1>
 
 <p align="center">
-   <b>Quality Assurance Analyst | Manual Testing | Test Automation | Selenium | Playwright</b>
+   <b>Quality Assurance Analyst | Manual Testing | Test Automation | Selenium</b>
 </p>
 
 <p align="center">

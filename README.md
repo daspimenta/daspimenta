@@ -144,7 +144,7 @@ Analyzed requirements, documented defects in Jira, and evaluated application beh
 
 #### Location
 
-📍 Based in Araruama, Brazil
+📍 Based in Groningen, The Netherlands
 
 ---
 

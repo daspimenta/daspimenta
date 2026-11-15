@@ -32,7 +32,7 @@ Manual Testing • Test Automation • Mobile Testing • API Testing • Databa
 
 ---
 
-</p><h2 align="center">🤖Linguagens e Ferramentas</h2> 
+</p><h2 align="center">🤖Languages and Tools</h2> 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" /> &nbsp;
